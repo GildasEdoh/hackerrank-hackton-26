@@ -1,12 +1,12 @@
 # Buy or Wait? — Evaluation Usage Report
 
-**Run date:** 2026-09-12 18:05:38 UTC
+**Run date:** 2026-09-13 01:05:19 UTC
 
 **Total requests processed:** 250
 
-**Total elapsed time:** 4.7s
+**Total elapsed time:** 2.7s
 
-**Average time per request:** 18.7ms
+**Average time per request:** 10.8ms
 
 ## Model / AI Usage
 
